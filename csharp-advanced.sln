@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dynamic", "Dynamic\Dynamic.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceptionHandling", "ExceptionHandling\ExceptionHandling.csproj", "{F3C7D2EA-FB09-4A0C-A38A-D04050A62168}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Async", "Async\Async.csproj", "{50BE68B0-5F3E-4F50-9832-2E8C34DD4B9D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{F3C7D2EA-FB09-4A0C-A38A-D04050A62168}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F3C7D2EA-FB09-4A0C-A38A-D04050A62168}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F3C7D2EA-FB09-4A0C-A38A-D04050A62168}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50BE68B0-5F3E-4F50-9832-2E8C34DD4B9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50BE68B0-5F3E-4F50-9832-2E8C34DD4B9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50BE68B0-5F3E-4F50-9832-2E8C34DD4B9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50BE68B0-5F3E-4F50-9832-2E8C34DD4B9D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
